@@ -6,11 +6,11 @@
 ## Use Case Description
 
 ### **Astronomer (นักดาราศาสตร์)**:
-   #### **Use Case 1 : **Create Science Plan สร้างแผนวิทยาศาสตร์เพื่อกำหนดการสังเกตการณ์ในอนาคต (โหมด Planning)
-   #### **Use Case 2 : **Submit Science Plan to System ส่งแผนเข้าสู่ระบบเพื่อให้สามารถดำเนินการได้ (โหมด Planning)
-   #### **Use Case 3 : **Check System Status ตรวจสอบสถานะของระบบเพื่อให้แน่ใจว่าพร้อมใช้งาน (โหมด Monitoring)
-   #### **Use Case 4 : **Test Science Program ทดสอบแผนวิทยาศาสตร์กับตัวจำลองก่อนใช้งานจริง (โหมด Planning) [Extend จาก Create Science Plan]
-   #### **Use Case 5 : **Validate Science Plan ตรวจสอบความถูกต้องของแผนก่อนแปลงเป็นโปรแกรมที่สามารถปฏิบัติการได้ (โหมด Planning) [Include ในการส่งแผน]
+   #### Use Case 1 : Create Science Plan สร้างแผนวิทยาศาสตร์เพื่อกำหนดการสังเกตการณ์ในอนาคต (โหมด Planning)
+   #### Use Case 2 : Submit Science Plan to System ส่งแผนเข้าสู่ระบบเพื่อให้สามารถดำเนินการได้ (โหมด Planning)
+   #### Use Case 3 : Check System Status ตรวจสอบสถานะของระบบเพื่อให้แน่ใจว่าพร้อมใช้งาน (โหมด Monitoring)
+   #### Use Case 4 : Test Science Program ทดสอบแผนวิทยาศาสตร์กับตัวจำลองก่อนใช้งานจริง (โหมด Planning) [Extend จาก Create Science Plan]
+   #### Use Case 5 : Validate Science Plan ตรวจสอบความถูกต้องของแผนก่อนแปลงเป็นโปรแกรมที่สามารถปฏิบัติการได้ (โหมด Planning) [Include ในการส่งแผน]
 ### **Science Observer**:
    #### **Use Case 6 : **Transform Science Plan into Executable Observing Program แปลงแผนที่ได้รับการอนุมัติเป็นโปรแกรมที่สามารถดำเนินการจริงได้ (โหมด Observing)
    #### **Use Case 7 : **Manage Observation ควบคุมและจัดการการสังเกตการณ์ที่กำลังดำเนินอยู่ (โหมด Observing)
